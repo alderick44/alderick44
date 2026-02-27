@@ -1,7 +1,7 @@
 I'm Alderick, Junior front-end developer with a strong interest in interface design and user experience. I like putting myself in the user’s shoes to design or improve interfaces that are clear, visually appealing, and effective, in support of concrete goals.
 I have experience working with these technologies : HTML/CSS ○ JavaScript ○ UX/UI Design (Figma) ○ PHP ○ WordPress
 
-📫 How to reach me: info@agauthier.ca
+📫 How to reach me: contact@agauthier.ca
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
